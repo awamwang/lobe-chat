@@ -2,6 +2,106 @@
 
 # Changelog
 
+### [Version 0.132.2](https://github.com/lobehub/lobe-chat/compare/v0.132.1...v0.132.2)
+
+<sup>Released on **2024-03-07**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Fix anthropic streaming on Vercel/Cloudflare.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Fix anthropic streaming on Vercel/Cloudflare, closes [#1480](https://github.com/lobehub/lobe-chat/issues/1480) ([227101a](https://github.com/lobehub/lobe-chat/commit/227101a))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 0.132.1](https://github.com/lobehub/lobe-chat/compare/v0.132.0...v0.132.1)
+
+<sup>Released on **2024-03-06**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Fix hydration error while OAuth callback.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Fix hydration error while OAuth callback, closes [#1474](https://github.com/lobehub/lobe-chat/issues/1474) ([ff93825](https://github.com/lobehub/lobe-chat/commit/ff93825))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+## [Version 0.132.0](https://github.com/lobehub/lobe-chat/compare/v0.131.0...v0.132.0)
+
+<sup>Released on **2024-03-05**</sup>
+
+#### ✨ Features
+
+- **misc**: Support anthropic as model provider.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **misc**: Support anthropic as model provider, closes [#1409](https://github.com/lobehub/lobe-chat/issues/1409) ([a42cf8c](https://github.com/lobehub/lobe-chat/commit/a42cf8c))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+## [Version 0.131.0](https://github.com/lobehub/lobe-chat/compare/v0.130.7...v0.131.0)
+
+<sup>Released on **2024-03-05**</sup>
+
+#### ✨ Features
+
+- **misc**: Support langfuse integration.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **misc**: Support langfuse integration, closes [#1325](https://github.com/lobehub/lobe-chat/issues/1325) ([aaedfa7](https://github.com/lobehub/lobe-chat/commit/aaedfa7))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ### [Version 0.130.7](https://github.com/lobehub/lobe-chat/compare/v0.130.6...v0.130.7)
 
 <sup>Released on **2024-03-03**</sup>

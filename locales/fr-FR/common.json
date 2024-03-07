@@ -100,9 +100,11 @@
   },
   "layoutInitializing": "Initialisation de la mise en page en cours...",
   "modelProvider": {
+    "anthropic": "Anthropic",
     "azure": "Azure",
     "bedrock": "AWS Bedrock",
     "google": "Google",
+    "mistral": "Mistral AI",
     "moonshot": "Moonshot IA",
     "ollama": "Ollama",
     "oneapi": "One API",
@@ -128,6 +130,13 @@
     "chat": "Conversation",
     "market": "Découvrir",
     "setting": "Paramètre"
+  },
+  "telemetry": {
+    "allow": "Autoriser",
+    "deny": "Refuser",
+    "desc": "Nous aimerions recueillir anonymement des informations sur votre utilisation afin de nous aider à améliorer LobeChat et à vous offrir une meilleure expérience produit. Vous pouvez désactiver cette fonctionnalité à tout moment dans les paramètres - À propos.",
+    "learnMore": "En savoir plus",
+    "title": "Aider LobeChat à s'améliorer"
   },
   "temp": "Temporaire",
   "updateAgent": "Mettre à jour les informations de l'agent",
